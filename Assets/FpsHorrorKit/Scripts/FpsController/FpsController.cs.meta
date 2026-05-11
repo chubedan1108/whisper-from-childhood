@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 528e941655f655d4eb6098b5c1e6e115
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Scripts/FpsController/FpsController.cs
+  uploadId: 751147
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
