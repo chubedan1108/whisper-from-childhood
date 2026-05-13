@@ -18,7 +18,7 @@ public class DoorController : MonoBehaviour
 
     [SerializeField] private List<DoorGroup> doorGroups = new();
     private Dictionary<DoorID, List<DoorBase>> dic = new();
-
+     
     private void Start()
     {
         Initialize();

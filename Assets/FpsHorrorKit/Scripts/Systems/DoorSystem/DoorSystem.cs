@@ -25,7 +25,6 @@ public class DoorSystem : DoorBase
         {
             StartCoroutine(OpenDoor(base.angleConfig.endRotation, base.angleConfig.rotationSpeed));
             base.ChangeState(DoorState.Close);
-            Debug.Log("Dang dong cua");
         }
         else if (base.currentState == DoorState.Close) //Mo cua
         {

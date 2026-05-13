@@ -71,7 +71,7 @@ namespace FpsHorrorKit
         {
             if (isAlbumActive) { return; }
 
-            if (_input.itemIndex == 1 && _input.isPressed)
+            if (_input.itemIndex == 1 && _input.isPressed)  
             {
                 SelectFlashlight();
                 DiSelectCamera();
